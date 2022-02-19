@@ -1,0 +1,30 @@
+[post]
+title = "네이버 포스트 ─ 블루바이닐"
+url = "https://m.post.naver.com/my.naver?memberNo=47866274"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[series_albumspecial]
+title = "블루바이닐 ─ Album Special"
+url = "https://m.post.naver.com/my/series/detail.naver?seriesNo=564964&memberNo=47866274"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+onFail = "stale"
+
+[series_concertspecial]
+title = "블루바이닐 ─ Concert Special"
+url = "https://m.post.naver.com/my/series/detail.naver?seriesNo=575491&memberNo=47866274"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+onFail = "stale"
