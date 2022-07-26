@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 02:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:34:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Now We are here, This is TVT Club. (네이버 포스트 ─ 블루바이닐)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274</guid>
+            <pubDate>Tue, 26 Jul 2022 04:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[지난 15일부터 17일, The Volunteers의 두 번째 단독 공연 'This is TVT Club'이 개최되었습니다. 공연 관람하신 여러분들 모두 즐거우셨나요? 3일동안 진행된 공연의 뜨거운 현장 사진을 여러분들께 모두! 공개합니···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjVfMjI5/MDAxNjU4NzUxODgyMTcw.niMUq5r4J3trgwien8i5nCBZrwkPDVxij69gyY2k2uEg.VP6MOxtnzzegWR-Z7tHuE7nKwqg3jnC00HTaR3Q3tf4g.JPEG/Ijz32Hgi7CuGj4hjZJguOpY9mza4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Volunteers의 New Plant (네이버 포스트 ─ 블루바이닐)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34100093&amp;memberNo=47866274</link>
@@ -166,6 +174,14 @@
             <pubDate>Sat, 19 Feb 2022 03:32:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMDhfMTM2/MDAxNTc1NzM0MTUxNDgz.nhqZ9PV2-_Z6rQnjDnzSxg9S--dlziF4mY96FeAPTC8g.-GRl4o44h4FEZ_tSJlfItILQ-jMgOifqtTPtAYduNzYg.JPEG/I9ihLA029mo03AlqHZ52MM1vJDD4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Now We are here, This is TVT Club. (블루바이닐 ─ Concert Special)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Jul 2022 04:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjVfMjI5/MDAxNjU4NzUxODgyMTcw.niMUq5r4J3trgwien8i5nCBZrwkPDVxij69gyY2k2uEg.VP6MOxtnzzegWR-Z7tHuE7nKwqg3jnC00HTaR3Q3tf4g.JPEG/Ijz32Hgi7CuGj4hjZJguOpY9mza4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[You're already a member of the TVT Club! (블루바이닐 ─ Concert Special)]]></title>
