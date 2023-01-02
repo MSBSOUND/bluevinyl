@@ -4,9 +4,17 @@
         <title>블루바이닐 ─ Album Special</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 03:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How is your new year going?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 Jan 2023 04:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfMTIg/MDAxNjcyMTQxNDM2OTUw.1LbE8ruAU8SYL2fQJYhjiTrZ3gvzqG1-nzBYEttJVj0g.k4RcFZTWMVrQ4GXBt3b2ioDEGNRgICnhlg3uGgHZ6d4g.JPEG/IfTcRLjq6aU7jMPaXMDCVcJOOswc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Volunteers의 New Plant]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34100093&amp;memberNo=47866274&amp;navigationType=push</link>

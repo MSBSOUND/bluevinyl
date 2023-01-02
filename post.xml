@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 블루바이닐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 03:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How is your new year going?]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274</guid>
+            <pubDate>Mon, 02 Jan 2023 04:24:18 GMT</pubDate>
+            <content:encoded><![CDATA['New Year' From Yerin.2023년 새해가 밝았습니다! 지난 2022년은 아티스트 백예린에게 더욱 의미 있는 한 해가 아니었나 싶습니다. 솔로 음반과 밴드 활동, 첫 해외 진출과 더불어 데뷔 10주년이라는 값진 시간까지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfMTIg/MDAxNjcyMTQxNDM2OTUw.1LbE8ruAU8SYL2fQJYhjiTrZ3gvzqG1-nzBYEttJVj0g.k4RcFZTWMVrQ4GXBt3b2ioDEGNRgICnhlg3uGgHZ6d4g.JPEG/IfTcRLjq6aU7jMPaXMDCVcJOOswc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Now We are here, This is TVT Club.]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274</link>

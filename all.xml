@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 03:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How is your new year going? (네이버 포스트 ─ 블루바이닐)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274</guid>
+            <pubDate>Mon, 02 Jan 2023 04:24:18 GMT</pubDate>
+            <content:encoded><![CDATA['New Year' From Yerin.2023년 새해가 밝았습니다! 지난 2022년은 아티스트 백예린에게 더욱 의미 있는 한 해가 아니었나 싶습니다. 솔로 음반과 밴드 활동, 첫 해외 진출과 더불어 데뷔 10주년이라는 값진 시간까지···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfMTIg/MDAxNjcyMTQxNDM2OTUw.1LbE8ruAU8SYL2fQJYhjiTrZ3gvzqG1-nzBYEttJVj0g.k4RcFZTWMVrQ4GXBt3b2ioDEGNRgICnhlg3uGgHZ6d4g.JPEG/IfTcRLjq6aU7jMPaXMDCVcJOOswc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Now We are here, This is TVT Club. (네이버 포스트 ─ 블루바이닐)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274</link>
@@ -102,6 +110,14 @@
             <pubDate>Wed, 16 Nov 2022 17:31:48 GMT</pubDate>
             <content:encoded><![CDATA[Every letter I sent you.Every letter I sent you.내가 너에게 보냈던 모든 편지들. 이번 앨범은 19살부터 23살까지 제 생각과 고민, 추억들이 담겨있어요. 정확한 주소가 있진 않았지만 꾸준히 제 마음을 곡에 담···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMDhfMTM2/MDAxNTc1NzM0MTUxNDgz.nhqZ9PV2-_Z6rQnjDnzSxg9S--dlziF4mY96FeAPTC8g.-GRl4o44h4FEZ_tSJlfItILQ-jMgOifqtTPtAYduNzYg.JPEG/I9ihLA029mo03AlqHZ52MM1vJDD4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How is your new year going? (블루바이닐 ─ Album Special)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 Jan 2023 04:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfMTIg/MDAxNjcyMTQxNDM2OTUw.1LbE8ruAU8SYL2fQJYhjiTrZ3gvzqG1-nzBYEttJVj0g.k4RcFZTWMVrQ4GXBt3b2ioDEGNRgICnhlg3uGgHZ6d4g.JPEG/IfTcRLjq6aU7jMPaXMDCVcJOOswc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Volunteers의 New Plant (블루바이닐 ─ Album Special)]]></title>
