@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>블루바이닐 ─ Concert Special</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 20:22:16 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['Square(2023)'의 순간들]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36048226&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36048226&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Mon, 12 Jun 2023 04:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzBfODAg/MDAxNjg1NDIyNzUwNzY4.ySgnhEkws4AHteA2jHFbpR4MWOJ6VdQLyEHib7NjSoEg.ThlX6Vtyp17AsIdYzbzt3_NG_EaoEs0je1H3sS5_-0og.JPEG/IE6OgdvEziTXEaLrg4lWyG_5mpWM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Now We are here, This is TVT Club.]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Tue, 15 Nov 2022 03:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjVfMjI5/MDAxNjU4NzUxODgyMTcw.niMUq5r4J3trgwien8i5nCBZrwkPDVxij69gyY2k2uEg.VP6MOxtnzzegWR-Z7tHuE7nKwqg3jnC00HTaR3Q3tf4g.JPEG/Ijz32Hgi7CuGj4hjZJguOpY9mza4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You're already a member of the TVT Club!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32819203&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32819203&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Tue, 15 Nov 2022 03:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMjQ2/MDAxNjM3NzUxODQ4MTk3.kyPsylQ0MCnr6niuRRStco0kql1ApylX2VUTejOxPQAg.l2AdKcoVhL82EPwWfZ-33mUqABnsJx19fRUcHlEsuT8g.JPEG/IpF_kU9l9EpIxSkp-vVmIjjjFBdM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루바이닐을 틀어줘요, 백예린 단독공연의 순간들]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27523693&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27523693&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Tue, 15 Nov 2022 03:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMThfMTcx/MDAxNTgxOTU2MjcwMzg5.VyuqtIeVV4jNLpGOZ_WPSgWv8nNJ7Unz4U6TRxUc0hUg.MoQ1lHtCKxxzDgFeiGVzTbccObHc_1AMVgVQC42dr2Ag.JPEG/Il7P59ll6IToILEjWf9wjFRRpU4s.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://m.post.naver.com/my/series/detail.naver?seriesNo=575491&amp;memberNo=47866274</id>
+    <title>블루바이닐 ─ Concert Special</title>
+    <updated>2024-07-10T21:19:17.682Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://m.post.naver.com/my/series/favicon.ico</icon>
+</feed>
